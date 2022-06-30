@@ -1,0 +1,41 @@
+body {
+background-color: black;
+}
+h1{
+    color: cornflowerblue;
+    font-size: xx-large;
+    font-weight: bold;
+    font-weight: 400;
+
+    
+}
+h2{
+    color:cornflowerblue;
+    font-size: larger;
+    font-style: oblique;
+    font-weight: 300;
+
+}
+h3{
+    color: cornflowerblue;
+    font-size: large;
+    font-style: oblique;
+    font-weight: 200;
+}
+p{
+    color:violet;
+    font-size: large;
+    font-style: inherit;
+    font-weight: 100;
+}
+body {
+    background-color: black;
+
+}
+h1{
+    color: cornflowerblue;
+    font-size: xx-large;
+    font-weight: 400;
+    font-style: oblique;
+
+}
